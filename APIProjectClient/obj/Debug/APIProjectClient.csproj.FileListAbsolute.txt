@@ -1,0 +1,15 @@
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\bin\Debug\APIProjectClient.exe.config
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\bin\Debug\APIProjectClient.exe
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\bin\Debug\APIProjectClient.pdb
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\obj\Debug\APIProjectClient.csprojAssemblyReference.cache
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\obj\Debug\APIProjectClient.Form1.resources
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\obj\Debug\APIProjectClient.Properties.Resources.resources
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\obj\Debug\APIProjectClient.csproj.GenerateResource.cache
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\obj\Debug\APIProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\obj\Debug\APIProjectClient.exe
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\obj\Debug\APIProjectClient.pdb
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kyungjin\Desktop\API_Project\APIProjectClient\obj\Debug\APIProjectClient.csproj.CopyComplete
